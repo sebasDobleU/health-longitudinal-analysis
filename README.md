@@ -209,7 +209,7 @@ health-longitudinal-analysis/
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Sj9GjEB3Miz4QEKnJYvy17Lu2460eZsg)
 
-Click the badge above — all data loads automatically from GitHub. Run all cells sequentially (**Runtime → Run all**).
+Click the badge above — all data loads automatically from GitHub. Run all cells sequentially by clicking "Run all".
 
 ### Run locally
 

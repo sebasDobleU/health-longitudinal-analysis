@@ -118,7 +118,7 @@ The +0.396 cycle effect means average adult BMI increased ~0.8 units between 201
 Higher income is consistently associated with lower BMI across all groups. Unlike age or sex, income is a modifiable target for policy intervention — housing, food access, and employment programs could have measurable BMI effects.
 
 **3. Non-Hispanic Asian BMI requires different clinical thresholds**
-A 4-unit deviation below the population mean is large. The WHO has recommended lower BMI thresholds for Asian populations (overweight ≥ 23 instead of ≥ 25), and this finding supports that approach.
+A 4-unit deviation below the population mean is large. The WHO (World Health Organization)has recommended lower BMI thresholds for Asian populations (overweight ≥ 23 instead of ≥ 25), and this finding supports that approach.
 
 **4. Mexican American and Non-Hispanic Black groups carry unexplained BMI burden**
 After controlling for age, sex, income, and time, these groups still show the highest deviations. This points to unmeasured structural factors — neighborhood food environments, occupational physical demands, healthcare access — that merit further investigation.

@@ -9,7 +9,7 @@
 
 ## Overview
 
-This project applies a **Linear Mixed Effects Model** to three cycles of NHANES data (2013–2014, 2015–2016, 2017–2018) to quantify how much of the variation in adult BMI is explained by ethnic group membership versus individual-level factors such as age, sex, and income.
+This project applies a **Linear Mixed Effects Model** to three cycles of NHANES (National Health and Nutrition Examination Survey) data (2013–2014, 2015–2016, 2017–2018) to quantify how much of the variation in adult BMI is explained by ethnic group membership versus individual-level factors such as age, sex, and income.
 
 The analysis follows a rigorous data science workflow: multi-source data merging, four-dimension quality audit, exploratory analysis, formal statistical modeling, and clinically grounded recommendations.
 

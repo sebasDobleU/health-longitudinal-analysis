@@ -57,7 +57,7 @@ Four-dimension quality check performed before any analysis:
 | **Duplicates** | 0 fully duplicate rows; 0 duplicate SEQN within cycle | No action needed |
 
 ### Model Specification
-This is a mixed effects models, which has both fixed and independent parameters.
+This is a mixed effects models, which has both fixed (B_0 to B_5) and independent parameters (u_j and e_i,j)
 
 $$Y_{ij} = \beta_0 + \beta_1 \text{age}_{ij} + \beta_2 \text{age}^2_{ij} + \beta_3 \text{sex}_{ij} + \beta_4 \text{income}_{ij} + \beta_5 \text{cycle}_{ij} + u_j + \varepsilon_{ij}$$
 
